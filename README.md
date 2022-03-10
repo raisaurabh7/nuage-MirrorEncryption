@@ -1,7 +1,8 @@
 # nuage-MirrorEncryption
 Assignment Mirror Encryption
 # 
-# MirrorEncryption class includes two different approaches 
+# MirrorEncryption class includes two different approaches
+
 1.	Reading CSV as CSV file 
 2.	Reading CSV as text file.
 Reading CSV as text file is much efficient then reading as CSV file.
