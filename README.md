@@ -14,9 +14,12 @@ For this application I have not used any third-party package.
 
 This also includes test case 
 
-#Dependencies
+# Dependencies
+
 •	Python 3.8.0
+
 •	pytest-7.0.1
+
 # 
 # Key features:
 Class base approach
