@@ -103,7 +103,7 @@ class MirrorEncryption:
                 . Used multithreading queue
                 . Tried to maintain the order by using tuple
                 . Displaying the execution time to evaluate the performance
-                . The setup includes a test csv file of 247 mb input.csv
+                
                 
             ================================================================
             """
